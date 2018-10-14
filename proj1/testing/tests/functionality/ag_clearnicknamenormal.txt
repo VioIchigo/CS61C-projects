@@ -1,6 +1,0 @@
-Nick: Hi
-Steven: Hi
-Nick: \set_nickname Nick Steve
-Nick: ok
-Steven: \clear_nickname Nick
-Nick: boo

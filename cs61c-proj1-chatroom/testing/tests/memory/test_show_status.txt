@@ -1,0 +1,62 @@
+ShenXingyi: hi
+GaoPin: hallo
+GaoPin:\show_status ChunXing
+ChunXing:\show_status ChunXing
+GaoPin:\set_nickname ShenXingyi GaoPin
+ChunXing:\show_status ShenXingyi
+ChunXing:\show_status GaoPin
+GaoPin:\set_nickname ShenXingyi ChenXiao
+ShenXingyi:Hi!
+ChunXing:\show_status ShenXingyi
+ChunXing:\show_status GaoPin
+GaoPin:\rename ShaoDongjia
+GaoPin:This is my new name.
+GaoPin:\show_status GaoPin
+ShenXingyi:\show_status GaoPin
+ZhouYing:\set_nickname ZhouYing ChenXiao
+ZhouYing:......
+ShenXingyi:\set_nickname ShenXingyi Hallo
+ShenXingyi:hi
+ZhouYing:\set_nickname ZhouYing SunLi
+ZhouYing:lalala
+ZhouYing:\show_status ZhouYing
+ZhouYing:\clear_nickname ZhouYing
+ZhouYing:\show_status ZhouYing
+ZhouYing:\clear_nickname ShenXingyi
+ZhouYing:\show_status ShenXingyi
+ZhaoBaishi:\mute GaoPin
+ZhaoBaishi:\mute ShenXingyi
+ZhouYing:\mute ShenXingyi
+ZhouYing:\mute ZhaoBaishi
+ZhouYing:\show_status ZhaoBaishi
+ZhouYing:\show_status GaoPin
+GaoPin:\show_status ZhouYing
+GaoPin:\show_status ZhaoBaishi
+ZhaoBaishi:\show_status ZhouYing
+ZhaoBaishi:\show_status ShenXingyi
+ZhaoBaishi:\mute ChunXing
+ZhaoBaishi:It's a nice day, isn't it?
+ChunXing:Yes.
+ShenXingyi:No, it's not!
+ZhouYing:   \unmute ShenXingyi
+ZhouYing:\show_status ShenXingyi
+ZhaoBaishi:\show_status ShenXingyi
+ChunXing:\show_status ShenXingyi
+GaoPin:HAHAHA***~~
+ZhouYing:\unmute ShenXingyi
+ZhaoBaishi:\unmute GaoPin
+GaoPin:Whole Almonds.
+GaoPin:\set_nickname ShenXingyi ErShaoYe
+GaoPin:\set_nickname GaoPin ShaoDongjia
+GaoPin:talk talk talk bia bia bia
+ShenXingyi:blablablablabla
+ZhaoBaishi:\unmute ShenXingyi
+ShenXingyi:FRESHLY HARVESTED FROM FAMILY IN CALIFORNIA
+ChunXing:\show_status ShenXingyi
+GaoPin:\exit
+ChunXing:\show_status GaoPin
+ChunXing:Ah!
+ShenXingyi:^_^
+ShenXingyi:  \exit
+ZhouYing:  \exit
+GaoPin:\server_exit

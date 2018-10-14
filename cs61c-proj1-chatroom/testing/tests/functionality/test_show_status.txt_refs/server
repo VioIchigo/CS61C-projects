@@ -1,0 +1,67 @@
+Server messages:
+ZhaoBaishi has joined
+ZhouYing has joined
+ChunXing has joined
+GaoPin has joined
+ShenXingyi has joined
+ hi
+ hallo
+\show_status ChunXing
+\show_status ChunXing
+\set_nickname ShenXingyi GaoPin
+\show_status ShenXingyi
+\show_status GaoPin
+\set_nickname ShenXingyi ChenXiao
+Hi!
+\show_status ShenXingyi
+\show_status GaoPin
+\rename ShaoDongjia
+This is my new name.
+\show_status GaoPin
+\show_status GaoPin
+\set_nickname ZhouYing ChenXiao
+......
+\set_nickname ShenXingyi Hallo
+hi
+\set_nickname ZhouYing SunLi
+lalala
+\show_status ZhouYing
+\clear_nickname ZhouYing
+\show_status ZhouYing
+\clear_nickname ShenXingyi
+\show_status ShenXingyi
+\mute GaoPin
+\mute ShenXingyi
+\mute ShenXingyi
+\mute ZhaoBaishi
+\show_status ZhaoBaishi
+\show_status GaoPin
+\show_status ZhouYing
+\show_status ZhaoBaishi
+\show_status ZhouYing
+\show_status ShenXingyi
+\mute ChunXing
+It's a nice day, isn't it?
+Yes.
+No, it's not!
+   \unmute ShenXingyi
+\show_status ShenXingyi
+\show_status ShenXingyi
+\show_status ShenXingyi
+HAHAHA***~~
+\unmute ShenXingyi
+\unmute GaoPin
+Whole Almonds.
+\set_nickname ShenXingyi ErShaoYe
+\set_nickname GaoPin ShaoDongjia
+talk talk talk bia bia bia
+blablablablabla
+\unmute ShenXingyi
+FRESHLY HARVESTED FROM FAMILY IN CALIFORNIA
+\show_status ShenXingyi
+\exit
+\show_status GaoPin
+Ah!
+^_^
+  \exit
+  \exit

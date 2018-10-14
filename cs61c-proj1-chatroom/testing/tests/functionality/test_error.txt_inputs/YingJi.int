@@ -1,0 +1,30 @@
+ \clear_nickname
+ \clear_nickname Bala
+ \clear_nickname MiShu YingJi
+ \clear_nickname YingJi
+ \clear_nickname MiShu
+\rename
+\rename YingJi name
+\rename YingJi
+set_nickname YingJi HuangHou
+hahaha
+set_nickname YingJi QinWang
+\rename QinWang
+\rename BaZi
+\rename MiYue
+\mute
+\mute MiShu
+\mute Bala
+\mute name1 name2
+\mute YingJi
+\mute YingDang
+\unmute
+\unmute Bala
+\unmute YingDang YingDang
+\unmute YingJi
+\unmute YingDang
+\show_status
+\show_status show
+\show_status YingJi YingJi
+\show_show YingJi
+ 

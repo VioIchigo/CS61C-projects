@@ -1,4 +1,0 @@
-Nick: Hi Steven
-Steven: Hi Nick
-Steven: This is a test
-Nick: I hope we pass

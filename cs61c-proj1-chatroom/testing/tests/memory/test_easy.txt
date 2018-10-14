@@ -1,0 +1,3 @@
+LALA:hi
+LALA:\clear_nickname
+LALA:\server_exit

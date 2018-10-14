@@ -1,7 +1,0 @@
-A:hi
-A:\mute B
-B:\exit
-A:yes
-C:hi
-D:hi
-E:hi

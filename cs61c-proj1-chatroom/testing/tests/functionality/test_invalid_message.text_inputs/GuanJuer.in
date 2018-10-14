@@ -1,0 +1,41 @@
+3
+1
+S 9
+S 10
+-> \set_nickname Andy QuXiaoxiao
+1
+S 11
+1
+S 13
+S 14
+-> \set_nickname Andy nickname1 nickname2
+1
+S 15
+S 16
+1
+S 18
+-> \clear_nickname Andy
+1
+S 20
+1
+S 22
+-> \rename ZhaoYiSheng
+1
+S 23
+S 24
+S 25
+1
+S 27
+S 28
+S 29
+-> \unmute ZhaoYiSheng
+1
+S 30
+S 31
+S 32
+1
+-> this test has been long enough...
+1
+1
+1
+1

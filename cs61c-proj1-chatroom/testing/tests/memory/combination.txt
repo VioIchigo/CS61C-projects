@@ -1,0 +1,38 @@
+MiYue:hi!
+MiShu:  \set_nickname MiYue YueMeimei
+MiYue:urban environment
+YingJi: hello
+YingDang: \exit
+MiShu: \set_nickname YingDang QinWuWang
+YingDang:dark chocolate
+ShaoSiMing: \set_nickname ShaoSiMing YingDang
+ShaoSiMing:DalaDalaDa
+HuangXie: \clear_nickname MiYue
+MiYue:lalala
+BaiQi: \clear_nickname ZiLan
+ZiLan:Hi
+ZiLan: \set_nickname ZiLan GongZiZiLan
+ZiLan:Hi2
+HuangXie:\mute SuQin
+ZiLan: \exit
+SuQin: \exit
+ZhangYi: \clear_nickname SuQin a
+ZhangYi: \clear_nickname ZiLan b
+BaiQi:\rename ShaShen
+BaiQi:let's talk
+ZhangYi:\set_nickname MiYue MiBaZi
+MiYue:lalala lalala lalala
+MiYue: \rename BaZi
+MiYue:lalala lalala lalala 2
+MiYue: \clear_nickname MiYue
+MiYue:lalala lalala lalala 2
+MiYue: \rename ZiLan
+MiYue:lalala lalala lalala 2
+MiShu:\rename Queen
+MiShu: ::::::
+MiShu:\show_status MiShu
+MiShu:bye
+MiShu:\set_nickname MiShu HuangHou
+MiShu:byebye
+MiShu:\rename SuQin
+MiShu:hihihi

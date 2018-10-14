@@ -1,0 +1,73 @@
+1
+1
+-> hallo
+->\show_status ChunXing
+3
+S 9
+S 10
+->\set_nickname ShenXingyi GaoPin
+1
+S 11
+S 12
+S 13
+->\set_nickname ShenXingyi ChenXiao
+1
+1
+S 16
+S 17
+->\rename ShaoDongjia
+1
+->This is my new name.
+->\show_status GaoPin
+1
+S 20
+S 21
+S 22
+1
+1
+1
+1
+1
+S 28
+1
+S 30
+1
+S 32
+S 33
+S 34
+S 35
+S 36
+S 37
+S 38
+->\show_status ZhouYing
+3
+S 39
+->\show_status ZhaoBaishi
+3
+S 40
+S 41
+S 42
+S 43
+1
+1
+1
+S 47
+S 48
+S 49
+S 50
+->HAHAHA***~~
+S 52
+S 53
+->Whole Almonds.
+->\set_nickname ShenXingyi ErShaoYe
+1
+->\set_nickname GaoPin ShaoDongjia
+1
+S 56
+->talk talk talk bia bia bia
+1
+S 59
+1
+S 61
+->\exit
+1

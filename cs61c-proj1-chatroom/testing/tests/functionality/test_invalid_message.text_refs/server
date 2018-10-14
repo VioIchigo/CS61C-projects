@@ -1,0 +1,38 @@
+Server messages:
+XiaoBaoZong has joined
+ZhaoYiSheng has joined
+GuanJuer has joined
+FanShengmei has joined
+QuXiaoxiao has joined
+Andy has joined
+  Hallo.
+ \set_nickname Andy
+ \set_nickname Andy Andy
+ \set_nickname Andy QuXiaoxiao
+ \set_nickname Andy ANDI
+ \set_nickname Andy ANDI
+ \set_nickname QuXiaoxiao ANDI
+ \set_nickname Andy nickname1 nickname2
+ \set_nickname
+ \clear_nickname XiaoBaoZong
+ \clear_nickname ANDI
+ \clear_nickname Andy
+ \clear_nickname
+ set_nickname XiaoBaoZong BaoYifan
+ \clear_nickname XiaoBaoZong lalala
+ \rename ZhaoYiSheng
+ \rename ZhaoYiSheng
+ \set_nickname Zhao
+ \rename Zhao
+ \mute XiaoBaoZong
+ \mute Andy Andy
+ \mute ZhaoYiSheng
+ \unmute ZhaoYiSheng
+ \unmute ZhaoYiSheng
+ \show_status XiaoBaoZong ZhaoYiSheng
+ no artificial ingredients...
+ this test has been long enough...
+ yes indeed
+ ok bye guys
+ \exit
+ \exit

@@ -1,0 +1,10 @@
+Server messages:
+Steven has joined
+Nick has joined
+ Hi
+ Hey
+ \set_nickname Nick Riasanovsky
+ Boo
+ \clear_nickname
+ No nickname for me
+\server_exit
