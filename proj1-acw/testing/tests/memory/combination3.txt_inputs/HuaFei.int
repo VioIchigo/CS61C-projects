@@ -1,0 +1,15 @@
+\rename ChunChangZai
+is this correct?
+\mute GuoJinWang
+\unmute GuoJinWang
+\mute GuoJinWang
+\unmute GuoJinWang
+\mute GuoJinWang
+\unmute GuoJinWang
+\mute GuoJinWang
+\unmute GuoJinWang
+\mute LiuZhu
+\mute HuanBi
+\show_status GuoJinWang
+\show_status HuanBi
+\exit

@@ -1,0 +1,15 @@
+ShenXingyi:Hi
+GaoPin:\set_nickname ShenXingyi GaoPin
+GaoPin:\set_nickname ShenXingyi ChenXiao
+ShenXingyi:Hi!
+ZhouYing:\set_nickname ZhouYing ChenXiao
+ZhouYing:......
+ShenXingyi:\set_nickname ShenXingyi Hallo
+ShenXingyi:hi
+ZhouYing:\set_nickname ZhouYing SunLi
+ZhouYing:lalala
+ZhouYing:\clear_nickname ZhouYing
+GaoPin:\clear_nickname ShenXingyi
+GaoPin:Yes!!!Hahaha!@_@
+ShenXingyi:Give back my nickname!
+ZhouYing:\server_exit

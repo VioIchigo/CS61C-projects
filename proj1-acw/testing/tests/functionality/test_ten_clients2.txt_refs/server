@@ -1,0 +1,26 @@
+Server messages:
+9 has joined
+10 has joined
+8 has joined
+7 has joined
+6 has joined
+5 has joined
+4 has joined
+3 has joined
+2 has joined
+1 has joined
+Hi
+  Hallo
+\mute 4
+\set_nickname 3 three
+\clear_nickname 3
+\rename 6
+\exit
+hi
+hi
+\show_status 3
+\show_status 5
+\show_status 6
+hi
+\mute 9
+\server_exit

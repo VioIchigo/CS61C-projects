@@ -1,0 +1,127 @@
+2
+1
+1
+1
+1
+S 15
+1
+->lalala
+->\set_nickname ChunXing Xinger
+1
+->lalala1
+->\clear_nickname ChunXing
+1
+->lalala111
+->\clear_nickname ChunXing
+1
+->lalala11111
+S 24
+->\rename ChunXinger
+1
+->Hi
+S 27
+1
+S 29
+1
+1
+1
+1
+S 34
+S 35
+->hihihihi
+S 37
+1
+1
+1
+1
+->\set_nickname DaDangJia lalala
+1
+S 42
+->\mute DaDangJia
+1
+S 43
+->\clear_nickname DaDangJia
+1
+S 44
+->\mute ShenXingYi
+1
+S 45
+->hhh mute You
+1
+1
+1
+S 50
+S 51
+S 52
+S 53
+1
+S 55
+->\unmute DaDangJia
+1
+S 56
+->\unmute ZhaoBaiShi
+1
+S 57
+->\mute QianHong
+1
+S 58
+S 59
+->\unmute QianHong
+1
+S 60
+1
+->\unmute ZhouLaoSi
+1
+S 62
+->\unmute ChunXing
+1
+S 63
+->\mute ZhouLaoSi
+1
+S 64
+->\mute ShenXingYi
+1
+S 65
+->\mute GaoPin
+1
+S 66
+->\mute ZhouLaoSi
+1
+S 67
+->\mute ZhouYing
+1
+S 68
+S 69
+->\unmute ZhouYing
+1
+S 70
+1
+->\show_status ChunXing
+1
+S 72
+->\show_status ZhaoBaiShi
+3
+S 73
+->\show_status GaoPin
+1
+S 74
+1
+S 76
+S 77
+S 78
+1
+1
+1
+1
+1
+1
+1
+->hi
+->\mute BaoLai
+1
+S 87
+1
+->Bytes
+1
+->\server_exit
+1
