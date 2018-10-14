@@ -1,3 +1,3 @@
 # project-starter-code
-Starter code for the CS 170 course project
+code for the CS 170 course project, Spring 2018
 
