@@ -12,3 +12,6 @@ Face morphing
 
 [Project5](https://uj4szq.axshare.com/home.html):
 Lightfield Camera
+
+[Project6](https://inst.eecs.berkeley.edu/~cs194-26/fa18/upload/files/proj6B/cs194-26-aen/):
+IMAGE WARPING and MOSAICING
