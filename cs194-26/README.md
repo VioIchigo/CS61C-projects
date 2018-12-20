@@ -15,3 +15,6 @@ Lightfield Camera
 
 [Project6](https://inst.eecs.berkeley.edu/~cs194-26/fa18/upload/files/proj6B/cs194-26-aen/):
 IMAGE WARPING and MOSAICING
+
+[Project7](https://inst.eecs.berkeley.edu/~cs194-26/fa18/upload/files/projFinalAssigned/cs194-26-aen/):
+Seam Carving and Fake Miniatures
