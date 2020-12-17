@@ -1,0 +1,96 @@
+8
+1
+S 13
+1
+S 15
+1
+1
+1
+1
+S 20
+1
+S 22
+S 23
+1
+S 25
+1
+S 27
+S 28
+1
+1
+1
+1
+->ZhangYi
+->\mute SuQin
+1
+S 34
+->\mute SuQin
+1
+S 35
+->\mute SuQin
+1
+S 36
+->\mute SuQin
+1
+S 37
+->\mute SuQin
+1
+S 38
+1
+S 40
+1
+1
+1
+->\mute SuQin
+1
+S 44
+->\mute SuQin
+1
+S 45
+->\mute ZiLan
+1
+S 46
+->\mute YingDang
+1
+S 47
+1
+S 49
+1
+S 51
+S 52
+->\mute YingJi
+1
+S 53
+->\mute HuangXie
+1
+S 54
+->\mute HuangXie
+1
+S 55
+1
+S 57
+S 58
+S 59
+S 60
+->\mute HuangXie
+1
+S 61
+->\unmute YingJi
+1
+S 62
+1
+S 64
+1
+S 66
+S 67
+->\set_nickname zhangzi
+1
+S 68
+1
+S 70
+1
+S 72
+->\show_status ZiLan
+1
+S 73
+1

@@ -1,0 +1,9 @@
+Server messages:
+Steven has joined
+Nick has joined
+ Hi
+ Hi
+ \set_nickname Nick Steve
+ ok
+ \clear_nickname Nick
+ boo

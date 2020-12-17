@@ -1,0 +1,49 @@
+Server messages:
+ZhangYi has joined
+SuQin has joined
+ZiLan has joined
+BaiQi has joined
+HuangXie has joined
+ShaoSiMing has joined
+YingDang has joined
+YingJi has joined
+MiShu has joined
+MiYue has joined
+hi!
+  \set_nickname MiYue YueMeimei
+urban environment
+ hello
+ \exit
+ \set_nickname YingDang QinWuWang
+ \set_nickname ShaoSiMing YingDang
+DalaDalaDa
+ \clear_nickname MiYue
+lalala
+ \clear_nickname ZiLan
+Hi
+ \set_nickname ZiLan GongZiZiLan
+Hi2
+\mute SuQin
+ \exit
+ \exit
+ \clear_nickname SuQin a
+ \clear_nickname ZiLan b
+\rename ShaShen
+let's talk
+\set_nickname MiYue MiBaZi
+lalala lalala lalala
+ \rename BaZi
+lalala lalala lalala 2
+ \clear_nickname MiYue
+lalala lalala lalala 2
+ \rename ZiLan
+lalala lalala lalala 2
+\rename Queen
+ ::::::
+\show_status MiShu
+bye
+\set_nickname MiShu HuangHou
+byebye
+\rename SuQin
+hihihi
+\server_exit

@@ -1,0 +1,28 @@
+load information;
+load season;
+load details;
+/* Add a new character to information. */
+insert into information values ('Yanlu', '7', 'M', 'Adult', 'F', 'Zuo');
+/* Add his apperance information. */
+insert into details values ('Yanlu', '9', '34');
+insert into details values ('Yanlu', '5', '28');
+insert into details values ('Yanlu', '4', '29');
+
+/* Print that season for each
+    girl character whose length longer than 30. */
+select Name, Season, Gender from information, details where
+   Length > '2' and Gender = 'F' and Age = 'Teen';
+
+/* Delete a character */
+create table details as select Name,Season,Length from details
+       where Name != 'Shaoyu';
+
+create table information
+   as select Name,Ability,Gender,Age,Main,Special
+      from information where Name != 'Shaoyu';
+
+/* And print the SIDs of those remaining. */
+select Name from information;
+
+select Name from details;
+quit;

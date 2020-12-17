@@ -1,0 +1,21 @@
+ShenXingyi: hi
+GaoPin: hallo
+ZhaoBaishi:\mute GaoPin
+ZhaoBaishi:\mute ShenXingyi
+ZhouYing:\mute ShenXingyi
+ZhouYing:\mute ZhouYing
+ZhouYing:\mute ZhaoBaishi
+ZhaoBaishi:\mute ChunXing
+ZhaoBaishi:It's a nice day, isn't it?
+ChunXing:Yes.
+ShenXingyi:No, it's not!
+GaoPin:HAHAHA***~~
+GaoPin:\set_nickname ShenXingyi ErShaoYe
+GaoPin:\set_nickname GaoPin ShaoDongjia
+GaoPin:talk talk talk bia bia bia
+GaoPin:\exit
+ChunXing:Ah!
+ShenXingyi:^_^
+ShenXingyi:  \exit
+ZhouYing:  \exit
+GaoPin:\server_exit

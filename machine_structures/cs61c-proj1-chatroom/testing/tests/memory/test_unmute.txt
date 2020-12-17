@@ -1,0 +1,27 @@
+ShenXingyi: hi
+GaoPin: hallo
+ZhaoBaishi:\mute GaoPin
+ZhaoBaishi:\mute ShenXingyi
+ZhouYing:\mute ShenXingyi
+ZhouYing:\mute ZhaoBaishi
+ZhaoBaishi:\mute ChunXing
+ZhaoBaishi:It's a nice day, isn't it?
+ChunXing:Yes.
+ShenXingyi:No, it's not!
+ZhouYing:   \unmute ShenXingyi
+GaoPin:HAHAHA***~~
+ZhouYing:\unmute ShenXingyi
+ZhaoBaishi:\unmute GaoPin
+GaoPin:Whole Almonds.
+GaoPin:\set_nickname ShenXingyi ErShaoYe
+GaoPin:\set_nickname GaoPin ShaoDongjia
+GaoPin:talk talk talk bia bia bia
+ShenXingyi:blablablablabla
+ZhaoBaishi:\unmute ShenXingyi
+ShenXingyi:FRESHLY HARVESTED FROM FAMILY IN CALIFORNIA
+GaoPin:\exit
+ChunXing:Ah!
+ShenXingyi:^_^
+ShenXingyi:  \exit
+ZhouYing:  \exit
+GaoPin:\server_exit

@@ -1,0 +1,47 @@
+Server messages:
+YingDang has joined
+YingJi has joined
+MiShu has joined
+MiYue has joined
+ \set_nickname
+ \set_nickname MiShu
+ \set_nickname MiShu Jie Jie
+ \set_nickname MiShu Jie Jie Jie
+ \set_nickname MiSh JieJie
+ \set_nickname MiShu HuangHou
+ \set_nickname YingJi HuangHou
+ \set_nickname YingJi MiShu
+ \clear_nickname
+ \clear_nickname Bala
+ \clear_nickname MiShu YingJi
+ \clear_nickname YingJi
+\exit
+ \clear_nickname MiShu
+\rename
+\rename YingJi name
+\rename YingJi
+set_nickname YingJi HuangHou
+hahaha
+set_nickname YingJi QinWang
+\rename QinWang
+ \set_nickname MiYue BaZi
+\rename BaZi
+\rename MiYue
+\mute
+\mute MiShu
+\mute Bala
+\mute name1 name2
+\mute YingJi
+\mute YingDang
+hi
+\unmute
+\unmute Bala
+\unmute YingDang YingDang
+\unmute YingJi
+\exit
+\unmute YingDang
+\show_status
+\show_status show
+\show_status YingJi YingJi
+\show_show YingJi
+\server_exit

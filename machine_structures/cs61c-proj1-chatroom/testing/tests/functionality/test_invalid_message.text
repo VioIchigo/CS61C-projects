@@ -1,0 +1,33 @@
+Andy:  Hallo.
+QuXiaoxiao: \set_nickname Andy
+FanShengmei: \set_nickname Andy Andy
+GuanJuer: \set_nickname Andy QuXiaoxiao
+ZhaoYiSheng: \set_nickname Andy ANDI
+XiaoBaoZong: \set_nickname Andy ANDI
+FanShengmei: \set_nickname QuXiaoxiao ANDI
+GuanJuer: \set_nickname Andy nickname1 nickname2
+ZhaoYiSheng: \set_nickname
+XiaoBaoZong: \clear_nickname XiaoBaoZong
+FanShengmei: \clear_nickname ANDI
+GuanJuer: \clear_nickname Andy
+ZhaoYiSheng: \clear_nickname
+XiaoBaoZong: set_nickname XiaoBaoZong BaoYifan
+FanShengmei: \clear_nickname XiaoBaoZong lalala
+GuanJuer: \rename ZhaoYiSheng
+ZhaoYiSheng: \rename ZhaoYiSheng
+ZhaoYiSheng: \set_nickname Zhao
+ZhaoYiSheng: \rename Zhao
+XiaoBaoZong: \mute XiaoBaoZong
+XiaoBaoZong: \mute Andy Andy
+FanShengmei: \mute ZhaoYiSheng
+GuanJuer: \unmute ZhaoYiSheng
+ZhaoYiSheng: \unmute ZhaoYiSheng
+XiaoBaoZong: \show_status XiaoBaoZong ZhaoYiSheng
+FanShengmei: no artificial ingredients...
+GuanJuer: this test has been long enough...
+ZhaoYiSheng: yes indeed
+XiaoBaoZong: ok bye guys
+ZhaoYiSheng: \exit
+XiaoBaoZong: \exit
+ZhaoYiSheng: \exit
+XiaoBaoZong: \server_exit

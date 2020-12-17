@@ -1,0 +1,96 @@
+ShenXingYi: Hi!
+ShenXingYi:hahahahahhahahahahhahahahahhahahahahhahahahahhahahahahhahahahahhahahahahiiiiiiiidsvdsadsadsasahahahahahhahahahahhahahahahhahahahahhahahahahhahahahahhahahahahhahahahahiiiiiiiidsvdsadsadsasahahahahahhahahahahhahahahahhahahahahhahahahahhahahahahhahahahahhahahahahiiiiiiiidsvdsadsadsasahahahahahhahahahahhahahahahhahahahahhahahahahhahahahahhahahahahhahahahahiiiiiiiidsvdsadsadsasahahahahahhahahahahhahahahahhahahahahhahahahahhahahahahhahahahahhahahahahiiiiiiiidsvdsadsadsasahahahahahhahahahahhahahahahhahahahahhahahahahhahahahahhahahahahhahahahahiiiiiiiidsvdsadsadsasahahahahahhahahahahhahahahahhaahahahhahahahahhahahahahhahahahahhahahahahiiiiiiiidsvdsadsadsasahahahahahhahahahahhahahahahhahahahahiiiiidssadasadsasahahahahahhahahahahhahahahahhahahahahhahahahahhahahahahiiiii
+ShenXingYi:\set_nickname ShenXingYi ErShaoYe
+GaoPin:\exit
+ShenXingYi:\set_nickname GaoPin ShaoDongJia
+GaoPin:Hi
+GaoPin:\exit
+ShenXingYi:\set_nickname ChunXing GaoPin
+ChunXing:lalala
+ChunXing:\set_nickname ChunXing Xinger
+ChunXing:lalala1
+ChunXing:\clear_nickname ChunXing
+ChunXing:lalala111
+ChunXing:\clear_nickname ChunXing
+ChunXing:lalala11111
+ShenXingYi:\clear_nickname GaoPin
+ChunXing:\rename ChunXinger
+ChunXing:Hi
+ShenXingYi:\set_nickname ShenXingYi ErShaoYe
+ShenXingYi:\rename NanZhu
+ShenXingYi:\clear_nickname ShenXingYi
+ShenXingYi:hi
+ShenXingYi:clear_nickname NanZhu
+ShenXingYi:hihihi
+ShenXingYi:\rename GaoPin
+ShenXingYi:\mute ChunXing
+ShenXingYi:\mute ChunXinger
+ChunXing:hihihihi
+ShenXingYi:\mute ZhaoBaiShi
+ZhaoBaiShi:\exit
+DaDangJia:\rename ZhaoBaiShi
+DaDangJia:lalalala
+ShenXingYi:en
+ChunXing:\set_nickname DaDangJia lalala
+ChunXing:\mute DaDangJia
+ChunXing:\clear_nickname DaDangJia
+ChunXing:\mute ShenXingYi
+ChunXing:hhh mute You
+ShenXingYi: i can still speak!!
+ShenXingYi:\rename ChenXiao
+ShenXingYi: i can still speak!!!!
+ShenXingYi:\mute ShenXingYi
+ShenXingYi:\mute GaoPin
+ShenXingYi:\mute ZhaoBaiShi
+ShenXingYi:\mute ZhouLaoSi
+ZhouLaoSi:\exit
+ShenXingYi:\unmute ZhouLaoSi
+ChunXing:\unmute DaDangJia
+ChunXing:\unmute ZhaoBaiShi
+ZhaoBaiShi:hi
+ZhouLaoSi:hello
+GaoPin:i am back again
+ChunXing:\mute QianHong
+QianHong:hi
+ChunXing:\unmute QianHong
+QianHong:hello
+ChunXing:\unmute ZhouLaoSi
+ChunXing:\unmute ChunXing
+ChunXing:\mute ZhouLaoSi
+ChunXing:\mute ShenXingYi
+ChunXing:\mute GaoPin
+ChunXing:\mute ZhouLaoSi
+ChunXing:\mute ZhouYing
+ZhouYing:hi
+ChunXing:\unmute ZhouYing
+ZhouYing:hihihi
+ChunXing:\show_status ChunXing
+ChunXing:\show_status ZhaoBaiShi
+GaoPin:\exit
+ChunXing:\show_status GaoPin
+ZhouLaoSi:\set_nickname ZhouLaoSi Laosi
+ZhouLaoSi:\set_nickname ZhouLaoSi Laosia
+ZhouLaoSi:\set_nickname ZhouYing Laosiaa
+ZhouLaoSi:\set_nickname ZhouYing Laosiab
+ZhouLaoSi:\clear_nickname ZhouLaoSi
+ZhaoBaiShi:\clear ZhaoBaiShi
+ZhaoBaiShi:\clear ZhaoBaiShi
+ZhouYing:\clear_nickname ZhouYing
+ZhouYing:\set_nickname SunLi
+ZhouYing:\lala ZhaoBaiShi
+ZhouYing:\rename ZhouYing
+ZhouYing:\rename SunLi
+ZhouYing:\exit
+ZhouYing:\exit
+ShenXingYi:hi
+ShenXingYi:\    rename  lallalalaal
+ShenXingYi:hallo
+ShenXingYi:\    rename  lallalalaallala
+ShenXingYi:hallo
+ChunXing:hi
+ChunXing:\mute BaoLai
+BaoLai:\exit
+ChunXing:Bytes
+ZhouYing:lalala1
+ZhaoBaiShi:i hope we pass
+ShenXingYi:that's true

@@ -1,0 +1,34 @@
+-> Hi!
+1
+1
+1
+1
+->\set_nickname ZhenHuan NIUHULU
+1
+->\rename NiuhuluZhenhuan
+1
+->\show_status ZhenHuan
+1
+S 13
+->\show_status NiuhuluZhenhuan
+3
+S 14
+S 15
+1
+1
+S 18
+->\show_status ZhenHuan
+1
+S 19
+->\show_status NiuhuluZhenhuan
+3
+S 20
+->\rename ZhenHuan
+1
+->\show_status ZhenHuan
+3
+S 22
+->\show_status NiuhuluZhenhuan
+1
+S 23
+1

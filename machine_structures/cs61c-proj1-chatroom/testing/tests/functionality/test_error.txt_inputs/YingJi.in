@@ -1,0 +1,92 @@
+2
+S 6
+S 7
+S 8
+S 9
+S 10
+1
+S 12
+S 13
+-> \clear_nickname
+1
+S 14
+-> \clear_nickname Bala
+1
+S 15
+-> \clear_nickname MiShu YingJi
+1
+S 16
+-> \clear_nickname YingJi
+1
+1
+-> \clear_nickname MiShu
+1
+S 19
+->\rename
+1
+S 20
+->\rename YingJi name
+1
+S 21
+->\rename YingJi
+1
+S 22
+->set_nickname YingJi HuangHou
+->hahaha
+->set_nickname YingJi QinWang
+->\rename QinWang
+1
+1
+->\rename BaZi
+1
+S 28
+->\rename MiYue
+1
+S 29
+->\mute
+1
+S 30
+->\mute MiShu
+1
+S 31
+->\mute Bala
+1
+S 32
+->\mute name1 name2
+1
+S 33
+->\mute YingJi
+1
+S 34
+->\mute YingDang
+1
+S 35
+S 36
+->\unmute
+1
+S 37
+->\unmute Bala
+1
+S 38
+->\unmute YingDang YingDang
+1
+S 39
+->\unmute YingJi
+1
+S 40
+1
+->\unmute YingDang
+1
+S 42
+->\show_status
+1
+S 43
+->\show_status show
+1
+S 44
+->\show_status YingJi YingJi
+1
+S 45
+->\show_show YingJi
+1
+S 46

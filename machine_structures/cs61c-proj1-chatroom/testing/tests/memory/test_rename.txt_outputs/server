@@ -1,0 +1,24 @@
+Server messages:
+ZhouYing has joined
+GaoPin has joined
+ShenXingyi has joined
+Hi
+\set_nickname ShenXingyi GaoPin
+\set_nickname ShenXingyi ChenXiao
+Hi!
+\set_nickname ZhouYing ChenXiao
+......
+\set_nickname ShenXingyi Hallo
+hi
+\rename ChenXiao
+Why...
+\rename ShaoDongjia
+This is my new name.
+\clear_nickname ShenXingyi
+Hahaha.
+\clear_nickname ChenXiao
+Hi
+\exit
+\exit
+Alright....
+\server_exit

@@ -1,0 +1,24 @@
+create table favorite (Name, Party, Age);
+/* Who are the characters and their parties and ages.*/
+insert into favorite values ('Xiaomeng', 'Dao', '18');
+insert into favorite values ('Xiaoyao', 'Dao', '60');
+insert into favorite values ('Liang', 'Ru', '24');
+insert into favorite values ('Yan', 'Ru', '29');
+insert into favorite values ('Tianming', 'Main', '12');
+
+/* Print it.*/
+print favorite;
+/* Store it.*/
+store favorite;
+
+/* Crate another table.*/
+create table lala(None);
+/* store it.*/
+print lala;
+
+/* Load it.*/
+load lala;
+/* Store it.*/
+print lala;
+
+quit;

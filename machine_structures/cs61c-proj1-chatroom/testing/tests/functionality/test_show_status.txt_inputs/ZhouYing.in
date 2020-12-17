@@ -1,0 +1,88 @@
+3
+1
+1
+S 9
+S 10
+S 11
+S 12
+S 13
+1
+1
+S 16
+S 17
+1
+1
+S 20
+S 21
+->\set_nickname ZhouYing ChenXiao
+1
+S 22
+->......
+1
+1
+->\set_nickname ZhouYing SunLi
+1
+->lalala
+->\show_status ZhouYing
+3
+S 28
+->\clear_nickname ZhouYing
+1
+->\show_status ZhouYing
+3
+S 30
+->\clear_nickname ShenXingyi
+1
+->\show_status ShenXingyi
+3
+S 32
+S 33
+S 34
+->\mute ShenXingyi
+1
+S 35
+->\mute ZhaoBaishi
+1
+S 36
+->\show_status ZhaoBaishi
+3
+S 37
+->\show_status GaoPin
+1
+S 38
+S 39
+S 40
+S 41
+S 42
+S 43
+S 44
+1
+S 46
+->   \unmute ShenXingyi
+1
+S 47
+->\show_status ShenXingyi
+3
+S 48
+S 49
+S 50
+1
+->\unmute ShenXingyi
+1
+S 52
+S 53
+1
+1
+S 56
+1
+1
+S 59
+1
+S 61
+1
+S 63
+1
+1
+1
+->  \exit
+1

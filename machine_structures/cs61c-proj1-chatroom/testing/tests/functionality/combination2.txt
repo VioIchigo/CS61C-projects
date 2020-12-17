@@ -1,0 +1,63 @@
+MiYue:hi
+MiShu: \mute MiYue
+MiYue:yueer
+MiShu: \mute MiShu
+MiYue:hi
+MiShu:hihi
+BaiQi:wooo
+BaiQi:\exit
+MiShu:\mute BaiQi
+MiYue:\exit
+MiShu:\unmute MiYue
+HuangXie:\mute MiShu
+MiShu:lalala
+HuangXie:\unmute MiShu
+MiShu:lalalalala
+ZiLan:\unmute HuangXie
+ZiLan:\unmute ZiLan
+YingJi:YingJi
+YingDang:YingDang
+ZiLan:ZiLan
+SuQin:SuQin
+ZhangYi:ZhangYi
+ZhangYi:\mute SuQin
+ZhangYi:\mute SuQin
+ZhangYi:\mute SuQin
+ZhangYi:\mute SuQin
+ZhangYi:\mute SuQin
+Huangxie: bottle
+SuQin:lian heng
+YingJi: fighting
+YingDang: hualala
+ZiLan:so sleepy
+ZhangYi:\mute SuQin
+ZhangYi:\mute SuQin
+ZhangYi:\mute ZiLan
+ZhangYi:\mute YingDang
+Huangxie: bottle
+SuQin:lian heng
+YingJi: fighting
+YingDang: hualala
+ZiLan:so sleepy
+ZhangYi:\mute YingJi
+ZhangYi:\mute HuangXie
+ZhangYi:\mute HuangXie
+Huangxie: bottle
+SuQin:lian heng
+YingJi: fighting
+YingDang: hualala
+ZiLan:so sleepy
+ZhangYi:\mute HuangXie
+ZhangYi:\unmute YingJi
+Huangxie: bottle
+SuQin:lian heng
+YingJi: fighting
+YingDang: hualala
+ZiLan:so sleepy
+ZhangYi:\set_nickname zhangzi
+ZiLan:\rename GongZiZiLan
+ZiLan:\show_status ZiLan
+ZiLan:\exit
+SuQin:\show_status ZhangYi
+ZhangYi:\show_status ZiLan
+SuQin:\server_exit

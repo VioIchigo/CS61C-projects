@@ -1,0 +1,24 @@
+->Hi
+S 6
+1
+->Hi!
+S 9
+1
+->\set_nickname ShenXingyi Hallo
+1
+->hi
+->\rename ChenXiao
+1
+->Why...
+1
+1
+->\clear_nickname ShenXingyi
+1
+S 17
+1
+->\clear_nickname ChenXiao
+1
+->Hi
+1
+->\exit
+1
