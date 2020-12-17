@@ -1,7 +1,0 @@
-JinZhenGu: Hi
-JinZhenGu:\mute JinZhenGu
-JinZhenGu:\set_nickname see_you_tomorrow
-JinZhenGu:\rename see_you_tomorrow
-JinZhenGu:\show_status JinZhenGu
-JinZhenGu:\show_status see_you_tomorrow
-JinZhenGu:\server_exit
